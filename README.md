@@ -9,5 +9,5 @@ Other resources:
 * [OpenTopography](https://opentopography.org/) -  facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources. The OpenTopography Facility is based at the San Diego Supercomputer Center at the University of California, San Diego and is operated in collaboration with colleagues in the School of Earth and Space Exploration at Arizona State University and at UNAVCO.
 * [PDAL](https://pdal.io/index.html) - PDAL is a C++ library with Python wrappers for translating and manipulating point cloud data
 * [rioxarray](https://corteva.github.io/rioxarray/stable/index.html) - rioxarray extends xarray with the rio accessor that 'passes' the rasterio engine.
-* [geoapis](https://github.com/niwa/geoapis) - NIWA library created to faciliate downloading LiDAR from OptenTopography (i.e the first half of the notebook)
+* [geoapis](https://github.com/niwa/geoapis) - A public NIWA library created to faciliate downloading LiDAR from OptenTopography (i.e the first half of the notebook). A good optionis you want to download data in a few lines without mucking about with URLs directly. 
 * [QGIS](https://qgis.org/en/site/) - This is an OSS Geographic Information System (GIS) application. This can be handy for visualising spatial data.
